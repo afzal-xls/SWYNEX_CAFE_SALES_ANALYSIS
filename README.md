@@ -1,0 +1,133 @@
+☕ SWYNEX Cafe Sales Analysis
+
+📌 Project Overview
+
+This project focuses on analyzing cafe sales data to understand sales performance, customer purchasing behaviour, popular products and revenue trends.
+
+The project follows an end-to-end Data Analysis process, including data cleaning, exploratory data analysis and interactive dashboard creation.
+
+🎯 Problem Statement
+
+The objective of this project is to analyze cafe sales data and identify important business patterns.
+
+The analysis helps understand:
+
+- Which products are popular among customers?
+- Which payment methods are commonly used?
+- How does sales performance change over time?
+- Which locations generate more sales?
+- How can the cafe improve its business performance?
+
+🎯 Project Objectives
+
+1. Clean and prepare the cafe sales dataset.
+2. Handle missing and incorrect values.
+3. Perform exploratory data analysis.
+4. Identify sales trends and patterns.
+5. Create an interactive Power BI dashboard.
+6. Generate meaningful business insights and recommendations.
+
+📂 Dataset Information
+
+Dataset Name: Cafe Sales Dataset
+
+Dataset Columns:
+
+- Transaction ID
+- Item
+- Quantity
+- Price Per Unit
+- Total Spent
+- Payment Method
+- Location
+- Transaction Date
+
+Dataset Type: Sales Transaction Data
+
+🛠️ Tools & Technologies
+
+- Microsoft Excel – Data Cleaning and Analysis
+- SQL – Data Analysis and Querying
+- Microsoft Power BI – Interactive Dashboard
+- GitHub – Project Documentation and Storage
+
+🧹 Data Cleaning Process
+
+The following cleaning activities were performed using Excel:
+
+1. Checked missing values.
+2. Identified and handled UNKNOWN values.
+3. Standardized text values.
+4. Corrected date formatting.
+5. Checked duplicate records.
+6. Removed invalid or unrecoverable records.
+7. Prepared the final cleaned dataset.
+
+📊 Exploratory Data Analysis
+
+The sales data was analyzed to understand:
+
+- Total Revenue
+- Total Transactions
+- Average Transaction Value
+- Best-Selling Products
+- Sales by Payment Method
+- Sales by Location
+- Monthly Sales Trends
+
+📈 Power BI Dashboard
+
+An interactive dashboard was created using Microsoft Power BI.
+
+The dashboard includes:
+
+- Key Performance Indicators (KPIs)
+- Product-wise Sales Analysis
+- Monthly Sales Analysis
+- Payment Method Analysis
+- Location-wise Sales Analysis
+- Interactive Slicers and Filters
+
+💡 Key Business Insights
+
+The analysis focuses on identifying:
+
+1. The most popular products.
+2. The highest-performing sales period.
+3. The most preferred payment method.
+4. Sales performance across different locations.
+5. Opportunities to improve cafe revenue.
+
+Actual findings and supporting numbers will be added after final verification of the analysis results.
+
+🚀 Business Recommendations
+
+- Focus on products with strong customer demand.
+- Monitor monthly sales performance.
+- Improve marketing for low-performing products.
+- Understand customer payment preferences.
+- Use sales trends to improve business decisions.
+
+📁 Project Structure
+
+SWYNEX_CAFE_SALES_ANALYSIS/
+│
+├── README.md
+├── Dataset/
+├── Analysis/
+├── Dashboard/
+└── Insights/
+
+📝 Conclusion
+
+This project demonstrates an end-to-end Data Analysis workflow using Excel and Power BI.
+
+It provides useful insights into cafe sales performance and helps support better business decision-making.
+
+👨‍💻 Project By
+
+Afzal
+
+Data Analysis Portfolio Project
+
+Organization: SWYNEX
