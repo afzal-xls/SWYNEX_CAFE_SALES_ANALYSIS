@@ -96,8 +96,8 @@ The analysis focuses on identifying:
 2. The highest-performing sales period.
 3. The most preferred payment method.
 4. Sales performance across different locations.
-5. Opportunities to improve cafe revenue.
-
+5. Opportunities to improve cafe revenue
+6. 
 Actual findings and supporting numbers will be added after final verification of the analysis results.
 
 🚀 Business Recommendations
